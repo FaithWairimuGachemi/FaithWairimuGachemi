@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaithWairimuGachemi
 - 👀 I’m interested in web development,dart with flutter and cybersecurity.
-- 🌱 I’m currently learning dart with flutter at PLP. 
+- 🌱 I’m currently learning dart with flutter at PLP. I am also working on Project Artual and a final project for PLP
 - 💞️ I’m looking to collaborate on a Stock Portfolio Simulator project.
 - 📫   You can easily reach me via gmail- Faithnimoh7@gmail.com.
 - 😄 Pronouns: She/Her
